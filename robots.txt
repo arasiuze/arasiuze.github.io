@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://arasiuze.github.io/AuZ/sitemap_index.txt
+Sitemap: https://arasiuze.github.io/QKU/sitemap_index.txt
+Sitemap: https://arasiuze.github.io/naT/sitemap_index.txt
+Sitemap: https://arasiuze.github.io/udt/sitemap_index.txt
